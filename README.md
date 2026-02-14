@@ -32,7 +32,9 @@ The purpose of this project is to strengthen my HTML fundamentals and understand
 👨‍💻 Author
 
 Mian Haseeb Nasir
+
 Founder – Nova-Stack Technologies
+
 Software Engineer | AI Developer | Full Stack Developer
 
 GitHub: https://github.com/mianhaseebnasir
