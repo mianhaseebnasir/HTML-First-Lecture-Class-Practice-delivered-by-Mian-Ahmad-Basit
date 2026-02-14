@@ -5,21 +5,7 @@ In this lecture, I practiced basic HTML boilerplate structure and commonly used 
 
 Topics Covered
 
-HTML Boilerplate Structure
 
-Image Tag (<img>)
-
-Heading Tags (<h1> to <h6>)
-
-Paragraph Tag (<p>)
-
-Iframe Tag (<iframe>)
-
-Ordered List (<ol>)
-
-Unordered List (<ul>)
-
-Emmet Shortcuts Notes
 
 🛠 Technologies Used
 
