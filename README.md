@@ -5,7 +5,21 @@ In this lecture, I practiced basic HTML boilerplate structure and commonly used 
 
 Topics Covered
 
+HTML Boilerplate Structure
 
+Image Tag
+
+Heading Tags
+
+Paragraph Tag
+
+Iframe Tag
+
+Ordered List
+
+Unordered List
+
+Emmet Shortcuts Notes
 
 🛠 Technologies Used
 
