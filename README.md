@@ -3,7 +3,7 @@
 This project is part of my HTML learning journey.
 In this lecture, I practiced basic HTML boilerplate structure and commonly used tags.
 
-📚 Topics Covered
+Topics Covered
 
 HTML Boilerplate Structure
 
